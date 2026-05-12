@@ -34,12 +34,7 @@
 
 <br clear="right"/>
 
----
-
  
-
----
-
  
 
 <p>
@@ -48,21 +43,7 @@
 
 ---
 
-### `// GitHub Stats`
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devareeshamaryam&show_icons=true&theme=radical&bg_color=0a0a0a&border_color=f43f5e&icon_color=f43f5e&title_color=f43f5e&text_color=ffffff&hide_border=false" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devareeshamaryam&layout=compact&theme=radical&bg_color=0a0a0a&border_color=f43f5e&title_color=f43f5e&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devareeshamaryam&theme=radical&background=0a0a0a&ring=f43f5e&fire=f43f5e&currStreakLabel=f43f5e&sideLabels=ffffff&border=f43f5e" />
-</div>
-
----
+ 
 
 ### `// Connect With Me`
 
