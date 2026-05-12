@@ -36,22 +36,11 @@
 
 ---
 
-### `// About Me`
-
-```typescript
-const areesha = {
-  name     : "Areesha Maryam",
-  role     : "Aspiring Full Stack Developer",
-  learning : ["React JS", "Next.js", "NestJS"],
-  stack    : ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "NestJS"],
-  passions : ["Clean Code", "Scalable Apps", "Problem Solving"],
-  openTo   : "Collaborations & Opportunities 🚀"
-};
-```
+ 
 
 ---
 
-### `// Tech Stack`
+ 
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,html,css,tailwind,git,github,vscode&theme=dark&perline=12" />
